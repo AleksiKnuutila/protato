@@ -1,0 +1,7 @@
+pandas
+numpy
+sentence-transformers
+bertopic
+scikit-learn
+tomotopy
+biterm
